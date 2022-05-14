@@ -18,7 +18,7 @@ namespace GitHubApiTests
             this.client = new RestClient("https://api.github.com");
             string url = "/repos/uderk/postman/issues";
             this.request = new RestRequest(url);
-            this.client.Authenticator = new HttpBasicAuthenticator("uderk", "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");
+            this.client.Authenticator = new HttpBasicAuthenticator("uderk", "g******************lUi");
         }
 
         [Test]
