@@ -1,0 +1,15 @@
+D:\venko\QAautomation\RestSharpDemo\RestSharpDemo\TestGitHubApi\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\venko\QAautomation\RestSharpDemo\RestSharpDemo\TestGitHubApi\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\venko\QAautomation\RestSharpDemo\RestSharpDemo\TestGitHubApi\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\venko\QAautomation\RestSharpDemo\RestSharpDemo\TestGitHubApi\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+D:\venko\QAautomation\RestSharpDemo\RestSharpDemo\TestGitHubApi\bin\Debug\netcoreapp2.1\TestGitHubApi.deps.json
+D:\venko\QAautomation\RestSharpDemo\RestSharpDemo\TestGitHubApi\bin\Debug\netcoreapp2.1\TestGitHubApi.runtimeconfig.json
+D:\venko\QAautomation\RestSharpDemo\RestSharpDemo\TestGitHubApi\bin\Debug\netcoreapp2.1\TestGitHubApi.runtimeconfig.dev.json
+D:\venko\QAautomation\RestSharpDemo\RestSharpDemo\TestGitHubApi\bin\Debug\netcoreapp2.1\TestGitHubApi.dll
+D:\venko\QAautomation\RestSharpDemo\RestSharpDemo\TestGitHubApi\obj\Debug\netcoreapp2.1\TestGitHubApi.csprojAssemblyReference.cache
+D:\venko\QAautomation\RestSharpDemo\RestSharpDemo\TestGitHubApi\obj\Debug\netcoreapp2.1\TestGitHubApi.csproj.CoreCompileInputs.cache
+D:\venko\QAautomation\RestSharpDemo\RestSharpDemo\TestGitHubApi\obj\Debug\netcoreapp2.1\TestGitHubApi.AssemblyInfoInputs.cache
+D:\venko\QAautomation\RestSharpDemo\RestSharpDemo\TestGitHubApi\obj\Debug\netcoreapp2.1\TestGitHubApi.AssemblyInfo.cs
+D:\venko\QAautomation\RestSharpDemo\RestSharpDemo\TestGitHubApi\bin\Debug\netcoreapp2.1\TestGitHubApi.pdb
+D:\venko\QAautomation\RestSharpDemo\RestSharpDemo\TestGitHubApi\obj\Debug\netcoreapp2.1\TestGitHubApi.dll
+D:\venko\QAautomation\RestSharpDemo\RestSharpDemo\TestGitHubApi\obj\Debug\netcoreapp2.1\TestGitHubApi.pdb
